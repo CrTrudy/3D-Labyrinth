@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVcqtRUAARvM3WTU+E33aaJGFu+ljR8jDmJVa5wUUWjsyA8rY86s3hEvKHpLWpg9hyLaHyEa47vJKcUch+G4nQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dokumente IBB\\C#\\ConsoleFPSMaze2\\ConsoleFPSMaze2\\ConsoleFPSMaze2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trudy\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Trudy\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
